@@ -1,4 +1,4 @@
-<p align="center"><strong>Hi, I am Thirumalai , A Pro Coder.<strong></p>
+<p align="center"><strong>Hi, I am Pravenraj , A Pro Coder.<strong></p>
 <p align="center"><strong>Intrested in Android , Java , Python , Full Stack<strong></p>
 ## Connect with me
 <p align="center">
