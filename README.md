@@ -2,7 +2,7 @@
 <p align="center"><strong>Intrested in Android , Java , Python , Full Stack<strong></p>
 ## Connect with me
 <p align="center">
-<a href="https://www.linkedin.com/in/thirumalai-g007"><img alt="LinkedIn" title="My LinkedIn" src="https://img.shields.io/badge/linkedin-informational?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="www.linkedin.com/in/pravenraj-d-v-371bb7283"><img alt="LinkedIn" title="My LinkedIn" src="https://img.shields.io/badge/linkedin-informational?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/Praven-techdeveloper/"><img alt="GitHub" title="GitHub" src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=Github&logoColor=white"/></a>
 </p>
 
