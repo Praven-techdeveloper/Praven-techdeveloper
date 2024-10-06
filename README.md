@@ -17,7 +17,7 @@
 <p align="center"><a href="https://instagram.com/gt__king__007">
     <img src="https://img.shields.io/badge/-Instagram-red?style=flat&logo=Instagram&logoColor=white" alt="Instagram profile" height="30"/>
     <a/></p>
-      <p align="center"><a href="https://telegram.me/GTKING">
+      <p align="center"><a href="https://telegram.me/Dev">
     <img src="https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white" alt="Instagram profile" height="30"/>
     <a/></p>
 <p align="center"><a href="https://github.com/Praven-techdeveloper"><img src="https://github-readme-stats.vercel.app/api?username=Praven-techdeveloper&show_icons=true&theme=highcontrast&count_private=true"></a></p>
