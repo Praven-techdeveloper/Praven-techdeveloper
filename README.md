@@ -82,10 +82,10 @@
 
 <h2 align="left">Connect with Me 🤝</h2>
 <div align="left">
-  <a href="https://www.linkedin.com/in/navince-166ffsf" target="_blank">
+  <a href="https://www.linkedin.com/in/pravenraj-d-v-371bb7283/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" />
   </a>
-  <a href="mailto:inboxsofnaveen@gmail.com">
+  <a href="mailto:inboxsofpraven4405@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail logo" />
   </a>
 </div>
