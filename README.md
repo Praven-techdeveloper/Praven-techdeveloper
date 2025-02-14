@@ -4,7 +4,7 @@
 
 ###
 
-<h5 align="left">Hi, I'm Naveen! 👋 I'm a passionate web developer who loves creating responsive applications using HTML, CSS, JavaScript, and React 🌐.</h5>
+<h5 align="left">Hi, I'm Pravenraj! 👋 I'm a passionate web developer who loves creating responsive applications using HTML, CSS, JavaScript, and React 🌐.</h5>
 
 ###
 
@@ -99,3 +99,4 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/Praven-techdeveloper/Praven-techdeveloper/output/snake.svg" alt="Snake animation" />
