@@ -99,5 +99,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/naveen-166/naveen-166/output/snake.svg" alt="Snake animation" />
-
