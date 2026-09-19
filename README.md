@@ -25,6 +25,14 @@
 
 ###
 
+<h5 align="left">🌱 I’m currently learning: Advanced concepts of the AOSP build system.</h5>
+
+###
+
+<h5 align="left">⚡ Fun fact: I love digging into the internals of operating systems to understand how they work.</h5>
+
+###
+
 <h5 align="left">Let's connect and share our tech journeys! 🚀</h5>
 
 ###
