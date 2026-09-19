@@ -17,6 +17,10 @@
 
 ###
 
+<h5 align="left">I'm developer focused on the Android ecosystem, deeply involved in AOSP customization and compiling custom system ROMs.</h5>
+
+###
+
 <h5 align="left">Let's connect and share our tech journeys! 🚀</h5>
 
 ###
