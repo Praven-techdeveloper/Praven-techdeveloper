@@ -3,7 +3,7 @@
 <h1 align="center">Hi, 👋 Im Pravenraj</h1>
 <h3 align="center">An Android enthusiast and firmware developer, passionate about compiling custom ROMs and automation.</h3>
 </div>
-<h1 align="center">Hi, 👋 Im Pravenraj</h1>
+ 
 
 <h2 align="left">About Me 🌟</h2>
 
