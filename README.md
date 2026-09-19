@@ -21,6 +21,14 @@
 
 ###
 
+🔭 I’m currently working on improving my skills in Android system architecture.
+
+🌱 I’m currently learning: Advanced concepts of the AOSP build system.
+
+⚡ Fun fact: I love digging into the internals of operating systems to understand how they work.
+
+###
+
 <h5 align="left">Let's connect and share our tech journeys! 🚀</h5>
 
 ###
