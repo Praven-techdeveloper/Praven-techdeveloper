@@ -33,11 +33,6 @@
 
 ###
 
-<h5 align="left">⚡ 📱 My Hobby: AOSP ROMs for Redmi Note 10s
-In my free time, I enjoy compiling custom AOSP (Android Open Source Project) ROMs from source for the Poco F3 (alioth) device. This allows me to gain a deeper understanding of Android's internals and contribute to the open-source community.</h5>
-
-###
-
 <h5 align="left">⚙️ Supported versions: Android 13, 14, 15 & 16 (Latest).</h5>
  
 ###
